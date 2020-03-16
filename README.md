@@ -1,6 +1,7 @@
 # ⎈ CCE Cloud Controller Manager(CCM)
 [![Build Status](https://travis-ci.org/baidu/cloud-provider-baiducloud.svg?branch=master)](https://travis-ci.org/baidu/cloud-provider-baiducloud)
 [![Go Report Card](https://goreportcard.com/badge/github.com/baidu/cloud-provider-baiducloud)](https://goreportcard.com/report/github.com/baidu/cloud-provider-baiducloud)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmrbobbytables%2Fcloud-provider-baiducloud.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmrbobbytables%2Fcloud-provider-baiducloud?ref=badge_shield)
 
 CCE Cloud Controller Manager is a [Kubernetes](https://github.com/kubernetes/kubernetes) Cloud Controller Manager implementation (or out-of-tree cloud-provider) for Cloud-Container-Engine(CCE) on [Baidu Cloud](https://cloud.baidu.com).
 
@@ -47,3 +48,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmrbobbytables%2Fcloud-provider-baiducloud.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmrbobbytables%2Fcloud-provider-baiducloud?ref=badge_large)
